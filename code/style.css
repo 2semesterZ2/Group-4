@@ -73,16 +73,21 @@ body {
 -----------------------------------------------------------------------------*/
 .content {
 }
-
+.about-content{
+  margin: auto;s
+}
 .info-it{
   padding-top: 64px;
   padding-bottom: 64px;
 }
 .info-image{
-  max-width:100%
+  max-width:100%;
   height:auto;
 }
 
+.info-size{
+  width: 50%;
+}
 .info-padding{
   padding: 12px 24px;
 }
