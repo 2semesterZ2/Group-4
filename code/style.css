@@ -74,12 +74,31 @@ body {
 .content {
 }
 
+.info-it{
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
 .info-image{
   max-width:100%
   height:auto;
 }
 
+.info-padding{
+  padding: 12px 24px;
+}
 
+.info-position{
+  float: right;
+}
+
+.about-center{
+  text-align: center;
+}
+
+.about-large{
+  text-align: justify;
+  font-size: 18px;
+}
 
 /* Footer
 -----------------------------------------------------------------------------*/
