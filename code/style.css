@@ -138,6 +138,41 @@ li {
 -----------------------------------------------------------------------------*/
 .content {
 }
+.about-content{
+  margin: auto;
+}
+.info-it{
+  padding-top: 64px;
+  padding-bottom: 64px;
+}
+.info-image{
+  max-width:100%;
+  height:auto;
+}
+
+.info-size{
+  width: 50%;
+}
+.info-padding{
+  padding: 12px 24px;
+}
+
+.info-position{
+  float: right;
+}
+
+.info-position1{
+  
+}
+
+.about-center{
+  text-align: center;
+}
+
+.about-large{
+  text-align: justify;
+  font-size: 18px;
+}
 
 
 /* Footer
