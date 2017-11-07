@@ -74,7 +74,7 @@ body {
 .content {
 }
 .about-content{
-  margin: auto;s
+  margin: auto;
 }
 .info-it{
   padding-top: 64px;
@@ -94,6 +94,10 @@ body {
 
 .info-position{
   float: right;
+}
+
+.info-position1{
+  float: left;
 }
 
 .about-center{
