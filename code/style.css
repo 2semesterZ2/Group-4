@@ -1,0 +1,25 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "AvenirNextLTPro-Regular", sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    overflow-x: hidden;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "AvenirNextLTPro-Bold", sans-serif;
+}
+
+section, article {
+    margin-top: 2em;
+}
+
+section h2, article h2 {
+    font-size: 2em;
+    text-align: center;
+}
+.logo img {}
